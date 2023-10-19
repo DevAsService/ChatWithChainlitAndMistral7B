@@ -6,4 +6,4 @@ One avenue to achieving such sophisticated chat applications is through the inte
 
 This guide delves into the nuances of Mistral 7B and Chainlit, exploring their capabilities and demonstrating how they can be harnessed to build an interactive chat application. 
 
-Full article at: 
+Full article at: https://developer-service.blog/building-a-chat-application-with-chainlit-and-mistral-7b-on-cpu/
